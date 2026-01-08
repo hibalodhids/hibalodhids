@@ -1,16 +1,23 @@
-## Hi there 👋
+ 👋 Hi, I'm Hiba
 
-<!--
-**hibalodhids/hibalodhids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student  
+💻 Passionate about Python, Machine Learning, MongoDB, SQL database
+* Currently learning Web Development
 
-Here are some ideas to get you started:
+ 🛠️ Tech Stack
+*Languages:** Python, C++, HTML, CSS, Java 
+*Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+*Database:** MongoDB, SQL
+*Tools:** Git, GitHub, VS Code, PyCharm 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects:
+*Library_management_system
+*Swing-gui-component
+*House-price-prediction-LinearRegression
+*CryptoPredictor-Python
+*COVID-19 Data Analysis  
+
+💬 Connect With Me
+Email: hibalodhids@gmail.com
+LinkedIn: https://www.linkedin.com/in/hibalodhi/
+Kaggle: https://www.kaggle.com/hibalodhids
